@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider">
+  <nattable:Table xmi:id="_6N-GkNrxEe279on2U_3GnA" name="Class Tree Table" currentRowAxisProvider="_6N-Gk9rxEe279on2U_3GnA" currentColumnAxisProvider="_6N-GkdrxEe279on2U_3GnA" tableKindId="org.eclipse.papyrus.uml.table.classTree">
+    <eAnnotations xmi:id="_6N-toNrxEe279on2U_3GnA" source="http://www.eclipse.org/papyrus/infra/nattable/version">
+      <details xmi:id="_6N-todrxEe279on2U_3GnA" key="version" value="1.3.0"/>
+    </eAnnotations>
+    <context href="Ejercicio6Practica8.uml#_6N8RYNrxEe279on2U_3GnA"/>
+    <owner href="Ejercicio6Practica8.uml#_6N8RYNrxEe279on2U_3GnA"/>
+    <tableConfiguration href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/class_synchronized_tree.nattableconfiguration#PapyrusClassTreeTable_XMI_ID"/>
+    <columnAxisProvidersHistory xsi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_6N-GkdrxEe279on2U_3GnA" description="This axis provider provides available columns according to the rows of the table (features of the object displayed on the other axis)" name="UML Feature axis provider">
+      <axis xsi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_6N-GktrxEe279on2U_3GnA">
+        <manager href="platform:/plugin/org.eclipse.papyrus.uml.nattable.clazz.config/configs/class_synchronized_tree.nattableconfiguration#_UJa7yDzQEei_1txcmoHe_A"/>
+        <element xsi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xsi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_6N-Gk9rxEe279on2U_3GnA" description="This axis provider manages the rows, according to the wanted hierarchy" name="HierarchicalRowaAxisManager" disconnectSlave="true"/>
+  </nattable:Table>
+  <notation:Diagram xmi:id="_6PfwkNrxEe279on2U_3GnA" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_6PfwkdrxEe279on2U_3GnA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_6PfwktrxEe279on2U_3GnA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_6Pfwk9rxEe279on2U_3GnA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="Ejercicio6Practica8.uml#_6N8RYNrxEe279on2U_3GnA"/>
+    </styles>
+    <element href="Ejercicio6Practica8.uml#_6N8RYNrxEe279on2U_3GnA"/>
+  </notation:Diagram>
+</xmi:XMI>

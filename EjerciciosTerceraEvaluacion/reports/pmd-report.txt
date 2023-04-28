@@ -1,0 +1,357 @@
+src/ClaseObject/ClaseObject.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/ClaseObject/ClaseObject.java:5:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ClaseObject/ClaseObject.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/ClaseObject/ClaseObject.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ClaseObject/ClaseObject.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/ClaseObject/ClaseObject.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/ClaseObject/ClaseObject.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/ClaseObject/ClaseObject.java:11:	MissingOverride:	MissingOverride: The method 'hashCode()' is missing an @Override annotation.
+src/ClaseObject/ClaseObject.java:11:	OverrideBothEqualsAndHashcode:	OverrideBothEqualsAndHashcode: Ensure you override both equals() and hashCode()
+src/EjemplosEncapsulamiento/ClaseMain.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjemplosEncapsulamiento/ClaseMain.java:2:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'EjemplosEncapsulamiento.Persona'
+src/EjemplosEncapsulamiento/ClaseMain.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/EjemplosEncapsulamiento/ClaseMain.java:4:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/EjemplosEncapsulamiento/ClaseMain.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjemplosEncapsulamiento/ClaseMain.java:7:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'persona' could be declared final
+src/EjemplosEncapsulamiento/ClaseMain.java:8:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjemplosEncapsulamiento/ClaseMain.java:9:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjemplosEncapsulamiento/ClaseMain.java:10:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjemplosEncapsulamiento/ClaseMain.java:16:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjemplosEncapsulamiento/ClaseMain.java:17:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjemplosEncapsulamiento/ClaseMain.java:18:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjemplosEncapsulamiento/Persona.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjemplosEncapsulamiento/Persona.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjemplosEncapsulamiento/Persona.java:3:	DataClass:	DataClass: The class 'Persona' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+src/EjemplosEncapsulamiento/Persona.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/EjemplosEncapsulamiento/Persona.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/EjemplosEncapsulamiento/Persona.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/EjemplosEncapsulamiento/Persona.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjemplosEncapsulamiento/Persona.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'altura' is not assigned and could be declared final
+src/EjemplosEncapsulamiento/Persona.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'edad' is not assigned and could be declared final
+src/EjemplosEncapsulamiento/Persona.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/EjemplosEncapsulamiento/Persona.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/EjemplosEncapsulamiento/Persona.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'altura' is not assigned and could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/Ejercicio6Practica8/ClasePrincipal.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'Ejercicio6Practica8.Vehiculo.*'
+src/Ejercicio6Practica8/ClasePrincipal.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/ClasePrincipal.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/Ejercicio6Practica8/ClasePrincipal.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/ClasePrincipal.java:7:	NcssCount:	NcssCount: The method 'main(String[])' has a NCSS line count of 68.
+src/Ejercicio6Practica8/ClasePrincipal.java:9:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miVehiculo' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:13:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:14:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:15:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "---------------------------------------------" appears 8 times in this file; the first occurrence is on line 15
+src/Ejercicio6Practica8/ClasePrincipal.java:15:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:16:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:19:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miAcuatico' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:22:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:23:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:25:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:26:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:29:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miBarco' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:32:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:33:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:34:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:35:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:36:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:37:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:40:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miVelero' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:43:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:44:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:45:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:46:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:47:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:50:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miAereo' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:53:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:54:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:55:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:57:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:60:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miAvion' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:63:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:64:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:66:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:67:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:68:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:72:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'miHelicoptero' could be declared final
+src/Ejercicio6Practica8/ClasePrincipal.java:74:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:75:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:76:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:77:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:78:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:79:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:82:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:83:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:84:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:85:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:86:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:87:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:88:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:89:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/ClasePrincipal.java:90:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/Ejercicio6Practica8/Vehiculo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/Ejercicio6Practica8/Vehiculo.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/Ejercicio6Practica8/Vehiculo.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/Ejercicio6Practica8/Vehiculo.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/Vehiculo.java:15:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/Ejercicio6Practica8/Vehiculo.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/Vehiculo.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:26:	CommentRequired:	CommentRequired: Field comments are required
+src/Ejercicio6Practica8/Vehiculo.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/Vehiculo.java:34:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:34:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:34:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/Ejercicio6Practica8/Vehiculo.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/Vehiculo.java:41:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:41:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:42:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/Ejercicio6Practica8/Vehiculo.java:44:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/Vehiculo.java:49:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:49:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:49:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/Ejercicio6Practica8/Vehiculo.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/Ejercicio6Practica8/Vehiculo.java:56:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/Ejercicio6Practica8/Vehiculo.java:56:	CommentRequired:	CommentRequired: Class comments are required
+src/Ejercicio6Practica8/Vehiculo.java:56:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/Ejercicio6Practica8/Vehiculo.java:58:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Bombilla.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioBombilla/Bombilla.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioBombilla/Bombilla.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioBombilla/Bombilla.java:5:	LongVariable:	LongVariable: Avoid excessively long variable names like interruptorGeneral
+src/EjercicioBombilla/Bombilla.java:5:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/EjercicioBombilla/Bombilla.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioBombilla/Bombilla.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Bombilla.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Bombilla.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Bombilla.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Bombilla.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Main.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioBombilla/Main.java:3:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'EjercicioBombilla.Bombilla'
+src/EjercicioBombilla/Main.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioBombilla/Main.java:5:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/EjercicioBombilla/Main.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/EjercicioBombilla/Main.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioBombilla/Main.java:9:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/EjercicioBombilla/Main.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like b1
+src/EjercicioBombilla/Main.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like b2
+src/EjercicioBombilla/Main.java:17:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:18:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:20:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:21:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:22:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:25:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioBombilla/Main.java:26:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioClaseAbstraccionFactorial/Facto.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioClaseAbstraccionFactorial/Facto.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/EjercicioClaseAbstraccionFactorial/Facto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioClaseAbstraccionFactorial/Facto.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioClaseAbstraccionFactorial/Facto.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioClaseAbstraccionFactorial/Facto.java:6:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:8:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/EjercicioClaseAbstraccionFactorial/MainAbstracto.java:9:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioPag223224225/CuentaCorriente.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioPag223224225/CuentaCorriente.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'dni'
+src/EjercicioPag223224225/CuentaCorriente.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/CuentaCorriente.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/CuentaCorriente.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/CuentaCorriente.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'CuentaCorriente(String, double)'
+src/EjercicioPag223224225/CuentaCorriente.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dni' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'saldo' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'CuentaCorriente(String, String, double)'
+src/EjercicioPag223224225/CuentaCorriente.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dni' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'saldo' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/CuentaCorriente.java:22:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/EjercicioPag223224225/CuentaCorriente.java:24:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'setBanco(String)'
+src/EjercicioPag223224225/CuentaCorriente.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nuevoNombre' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'getBanco()'
+src/EjercicioPag223224225/CuentaCorriente.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'egreso(double)'
+src/EjercicioPag223224225/CuentaCorriente.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cant' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:38:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:41:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/EjercicioPag223224225/CuentaCorriente.java:44:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'ingreso(double)'
+src/EjercicioPag223224225/CuentaCorriente.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cant' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:48:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'gestor'
+src/EjercicioPag223224225/CuentaCorriente.java:48:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/CuentaCorriente.java:48:	FieldDeclarationsShouldBeAtStartOfClass:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/EjercicioPag223224225/CuentaCorriente.java:49:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'CuentaCorriente(String, String, Gestor)'
+src/EjercicioPag223224225/CuentaCorriente.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gestor' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:49:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused constructor parameters such as 'dni'.
+src/EjercicioPag223224225/CuentaCorriente.java:49:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused constructor parameters such as 'nombre'.
+src/EjercicioPag223224225/CuentaCorriente.java:54:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'setGestor(Gestor)'
+src/EjercicioPag223224225/CuentaCorriente.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gestor' is not assigned and could be declared final
+src/EjercicioPag223224225/CuentaCorriente.java:58:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'mostrarInformacion()'
+src/EjercicioPag223224225/CuentaCorriente.java:61:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:68:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:69:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:70:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/CuentaCorriente.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/Gestor.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioPag223224225/Gestor.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioPag223224225/Gestor.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/Gestor.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/Gestor.java:7:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'importeMax'
+src/EjercicioPag223224225/Gestor.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioPag223224225/Gestor.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioPag223224225/Gestor.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'importeMax' is not assigned and could be declared final
+src/EjercicioPag223224225/Gestor.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/EjercicioPag223224225/Gestor.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tlf' is not assigned and could be declared final
+src/EjercicioPag223224225/Gestor.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioPag223224225/Gestor.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/EjercicioPag223224225/Gestor.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'tlf' is not assigned and could be declared final
+src/EjercicioPag223224225/Gestor.java:16:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 10000.0 should separate every third digit with an underscore
+src/EjercicioPag223224225/Gestor.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'getTlf()'
+src/EjercicioPag223224225/Gestor.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on method 'mostrarInformacion()'
+src/EjercicioPag223224225/Gestor.java:23:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/Gestor.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/Gestor.java:25:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioPag223224225/Main.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioPag223224225/Main.java:3:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'EjercicioPag223224225.CuentaCorriente'
+src/EjercicioPag223224225/Main.java:4:	UnnecessaryImport:	UnnecessaryImport: Unnecessary import from the current package 'EjercicioPag223224225.Gestor'
+src/EjercicioPag223224225/Main.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioPag223224225/Main.java:6:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/EjercicioPag223224225/Main.java:6:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/EjercicioPag223224225/Main.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioPag223224225/Main.java:9:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/EjercicioPag223224225/Main.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like c1
+src/EjercicioPag223224225/Main.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like c2
+src/EjercicioPag223224225/Main.java:9:	ShortVariable:	ShortVariable: Avoid variables with short names like c3
+src/EjercicioPag223224225/Main.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'g1' could be declared final
+src/EjercicioPag223224225/Main.java:11:	ShortVariable:	ShortVariable: Avoid variables with short names like g1
+src/EjercicioPag223224225/Main.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'g2' could be declared final
+src/EjercicioPag223224225/Main.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like g2
+src/EjercicioPag223224225/Main.java:12:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 12000.0 should separate every third digit with an underscore
+src/EjercicioSintonizadorFM/Main.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioSintonizadorFM/Main.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioSintonizadorFM/Main.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/EjercicioSintonizadorFM/Main.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/EjercicioSintonizadorFM/Main.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioSintonizadorFM/Main.java:8:	OneDeclarationPerLine:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/EjercicioSintonizadorFM/Main.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like a
+src/EjercicioSintonizadorFM/Main.java:8:	ShortVariable:	ShortVariable: Avoid variables with short names like b
+src/EjercicioSintonizadorFM/SintonizadorFM.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/EjercicioSintonizadorFM/SintonizadorFM.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/EjercicioSintonizadorFM/SintonizadorFM.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'frecuencia'
+src/EjercicioSintonizadorFM/SintonizadorFM.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/EjercicioSintonizadorFM/SintonizadorFM.java:8:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'SintonizadorFM(double)'
+src/EjercicioSintonizadorFM/SintonizadorFM.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'frecuenciaInicial' is not assigned and could be declared final
+src/EjercicioSintonizadorFM/SintonizadorFM.java:11:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/EjercicioSintonizadorFM/SintonizadorFM.java:14:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/EjercicioSintonizadorFM/SintonizadorFM.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on constructor 'SintonizadorFM()'
+src/EjercicioSintonizadorFM/SintonizadorFM.java:26:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioSintonizadorFM/SintonizadorFM.java:29:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/EjercicioSintonizadorFM/SintonizadorFM.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioSintonizadorFM/SintonizadorFM.java:32:	ShortMethodName:	ShortMethodName: Avoid using short method names
+src/EjercicioSintonizadorFM/SintonizadorFM.java:35:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/EjercicioSintonizadorFM/SintonizadorFM.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/EjercicioSintonizadorFM/SintonizadorFM.java:39:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/EjercicioSintonizadorFM/SintonizadorFM.java:41:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/EjercicioSintonizadorFM/SintonizadorFM.java:45:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/EjercicioSintonizadorFM/SintonizadorFM.java:49:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/ExplicacionClaseAbstraccion/Circulo.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/ExplicacionClaseAbstraccion/Circulo.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/ExplicacionClaseAbstraccion/Circulo.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/ExplicacionClaseAbstraccion/Circulo.java:6:	ImmutableField:	ImmutableField: Field 'radio' may be declared final
+src/ExplicacionClaseAbstraccion/Circulo.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/ExplicacionClaseAbstraccion/Circulo.java:7:	ImmutableField:	ImmutableField: Field 'factorial' may be declared final
+src/ExplicacionClaseAbstraccion/Circulo.java:10:	CallSuperInConstructor:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/ExplicacionClaseAbstraccion/Circulo.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/ExplicacionClaseAbstraccion/Circulo.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'factorial' is not assigned and could be declared final
+src/ExplicacionClaseAbstraccion/Circulo.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'radio' is not assigned and could be declared final
+src/ExplicacionClaseAbstraccion/Circulo.java:15:	MissingOverride:	MissingOverride: The method 'area()' is missing an @Override annotation.
+src/ExplicacionClaseAbstraccion/Circulo.java:19:	MissingOverride:	MissingOverride: The method 'fact()' is missing an @Override annotation.
+src/ExplicacionClaseAbstraccion/Figura.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/ExplicacionClaseAbstraccion/Figura.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ExplicacionClaseAbstraccion/Figura.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/ExplicacionClaseAbstraccion/Figura.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/ExplicacionClaseAbstraccion/Figura.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/ExplicacionClaseAbstraccion/Figura.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/ExplicacionClaseAbstraccion/Figura.java:9:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:3:	ClassNamingConventions:	ClassNamingConventions: The class name 'mainAbstracto' doesn't match '[A-Z][a-zA-Z0-9]*'
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:7:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:7:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:8:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/ExplicacionClaseAbstraccion/mainAbstracto.java:10:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/SuperYsuperParente/Super.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/SuperYsuperParente/Super.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/SuperYsuperParente/Super.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/SuperYsuperParente/Super.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/SuperYsuperParente/Super.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/SuperYsuperParente/Super.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/SuperYsuperParente/Super.java:7:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/SuperYsuperParente/Super.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/SuperYsuperParente/Super.java:12:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/SuperYsuperParente/Super.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/SuperYsuperParente/Super.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/SuperYsuperParente/Super.java:17:	ImmutableField:	ImmutableField: Field 'raza' may be declared final
+src/SuperYsuperParente/Super.java:17:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'raza'.
+src/SuperYsuperParente/Super.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/SuperYsuperParente/Super.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/SuperYsuperParente/Super.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'raza' is not assigned and could be declared final
+src/SuperYsuperParente/Super.java:25:	MissingOverride:	MissingOverride: The method 'comer()' is missing an @Override annotation.
+src/SuperYsuperParente/Super.java:27:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/TiposHerencias/HerenciaMultiple.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/TiposHerencias/HerenciaMultiple.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/TiposHerencias/HerenciaMultiple.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaMultiple.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaMultiple.java:5:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/TiposHerencias/HerenciaMultiple.java:5:	ShortClassName:	ShortClassName: Avoid short class names like A
+src/TiposHerencias/HerenciaMultiple.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/HerenciaMultiple.java:6:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'metodoA': the method is declared in an interface type
+src/TiposHerencias/HerenciaMultiple.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaMultiple.java:9:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/TiposHerencias/HerenciaMultiple.java:9:	ShortClassName:	ShortClassName: Avoid short class names like B
+src/TiposHerencias/HerenciaMultiple.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/HerenciaMultiple.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'metodoB': the method is declared in an interface type
+src/TiposHerencias/HerenciaMultiple.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/TiposHerencias/HerenciaMultiple.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaMultiple.java:14:	MissingOverride:	MissingOverride: The method 'metodoA()' is missing an @Override annotation.
+src/TiposHerencias/HerenciaMultiple.java:15:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/TiposHerencias/HerenciaMultiple.java:18:	MissingOverride:	MissingOverride: The method 'metodoB()' is missing an @Override annotation.
+src/TiposHerencias/HerenciaMultiple.java:19:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/TiposHerencias/HerenciaSimple.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/TiposHerencias/HerenciaSimple.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/TiposHerencias/HerenciaSimple.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaSimple.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaSimple.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/TiposHerencias/HerenciaSimple.java:6:	ImmutableField:	ImmutableField: Field 'nombre' may be declared final
+src/TiposHerencias/HerenciaSimple.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/HerenciaSimple.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/TiposHerencias/HerenciaSimple.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/HerenciaSimple.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/HerenciaSimple.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/HerenciaSimple.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nombre' is not assigned and could be declared final
+src/TiposHerencias/HerenciaSimple.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/HerenciaSimple.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/TiposHerencias/PruebaSuperClass.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/TiposHerencias/PruebaSuperClass.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/TiposHerencias/PruebaSuperClass.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/TiposHerencias/PruebaSuperClass.java:5:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
